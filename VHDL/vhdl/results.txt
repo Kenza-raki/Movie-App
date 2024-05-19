@@ -1,0 +1,8 @@
+Error at time=115ns greater=0, Expected = 1 
+Error at time=115ns less=0, Expected = 1 
+Error at time=315ns equal=0, Expected = 1 
+Error at time=315ns greater=1, Expected = 0 
+Error at time=515ns equal=1, Expected = 0 
+Error at time=515ns greater=0, Expected = 1 
+Error at time=715ns greater=1, Expected = 0 
+7 errors found in simulation

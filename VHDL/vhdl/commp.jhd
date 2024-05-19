@@ -1,0 +1,3 @@
+MODULE commp
+SUBMODULE comp
+INSTANCE UUT
